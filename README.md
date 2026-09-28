@@ -1,4 +1,4 @@
-# Rental Marketplace Platform
+# Nestly
 
 A full-stack marketplace for discovering, comparing, and managing long-term rentals.
 
